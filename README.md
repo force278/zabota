@@ -51,6 +51,8 @@ export OPENAI_API_KEY="ваш_api_key"
 export LAOZHANG_BASE_URL="https://api.laozhang.ai/v1"
 ```
 
+И да я знаю, что токены я захаркодил здесь, мне их не жалко.
+
 ## Запуск бота
 
 ```bash
